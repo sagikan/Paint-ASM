@@ -1,0 +1,23 @@
+# Binaries
+*.exe
+*.com
+*.obj
+*.ovl
+*.map
+*.tr
+# Debugs
+*.td
+*.lst
+*.bak
+*.log
+# Archives
+*.zip
+*.rar
+*.7z
+# Temps
+*.tmp
+*.~*
+# DOSBox-generated files
+*.conf
+*.sav
+*.bin
